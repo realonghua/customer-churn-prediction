@@ -61,7 +61,7 @@ RFM-based features are created for each customer:
 
 ### 🔍 Confusion Matrix
 
-![Confusion Matrix](confusion_matrices.png)
+![Confusion Matrix](confusion_matrix.png)
 
 The confusion matrices show that tree-based models (Random Forest, XGBoost, LightGBM) achieve near-perfect classification, with extremely low false negatives.
 
